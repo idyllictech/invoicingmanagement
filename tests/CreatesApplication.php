@@ -1,10 +1,8 @@
 <?php
 
 namespace Tests;
-
 use Illuminate\Contracts\Console\Kernel;
 use Illuminate\Foundation\Application;
-
 trait CreatesApplication
 {
     /**
